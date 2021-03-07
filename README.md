@@ -2,6 +2,6 @@
 
 Выполненные задания из курсов по анализу данных
 
-[ ] Demo KarpovCourses Data Analyst - Первые три урока KarpovCourses "Аналитик данных"
+[x] Demo KarpovCourses Data Analyst - Первые три урока KarpovCourses "Аналитик данных"
 
 ![Python](https://img.shields.io/badge/-Python-blue)
